@@ -1,0 +1,94 @@
+
+
+
+	/* Overall index Formatting */
+
+#index p 	{ text-indent:30px; color: white; font-size: 12pt; padding: 10px }		
+#index h1 	{ text-align: center;  color:White; font-weight:bold; }
+#index h2	{ text-align: center;  color:White; font-weight:bold; }
+#index h3 	{ text-align: center;  color:White; font-weight:bold; }
+#index h4 	{ text-align: center;  color:White; font-weight:bold; }
+#index a { text-decoration:underline; font-weight: bold; }
+#index a:link, a:visited { color: white; }
+
+
+#index {width:1280px;
+	   margin:15px auto;
+	   background:#600000;
+	   border-bottom: solid 3px black;
+	   border-top: solid 3px black;
+	   border-left: solid 3px black;
+	   border-right: solid 3px black;
+	   }
+
+#profilepic {
+			border: solid 1px black; 
+			width: 250px;
+			height: 350px;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: 15px;
+			margin-bottom: 5px;
+			text-align: center;
+		}		
+		
+		/* Nav Menu */
+		
+#sitenav { text-align:center; }
+#sitenav li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 14pt; font-weight:normal; font-variant:small-caps;}
+		
+		
+		/* Photos Section formatting */
+
+.photos {
+			border: solid 2px black; 
+			width: 350px;
+			height: 310px;
+			margin-right: auto;
+			margin-left: auto;
+			margin-top: auto;
+			margin-bottom: auto;
+			text-align: Center;
+		}
+
+		/* Contact Info  */
+
+#topofpage {text-align:center}
+#topofpage a { text-decoration:underline;}
+#topofpage a:link, #topofpage a:visited { color: blue; }
+p.contact  {text-align:center; color:white }	
+p.footer  { margin:0; font-style:italic; text-align:center; font-size:small; }
+
+		/* Overall Resume page formatting */
+		
+#resume p 	{ text-indent:30px; color: Black; font-size: 12pt; padding: 10px }		
+#resume h1 	{ text-align: center;  color:Black; font-weight:bold; }
+#resume h2	{ text-align: center;  color:Black; font-weight:bold; }
+#resume h3 	{ text-align: center;  color:Black; font-weight:bold; }
+#resume h4 	{ text-align: left;  color:Black; font-weight:bold; margin-left:150px }
+#contactinfo { text-align: center;  color:Black; font-weight:bold; }
+#resume a { text-decoration:underline; font-weight: bold; }
+#resume a:link, a:visited { color: white; }
+#main ul { margin-left:150px; margin-right:150px}
+
+
+
+
+
+	   #resume {width:1280px;
+	   margin:15px auto;
+	   background:white;
+	   border-bottom: solid 3px black;
+	   border-top: solid 3px black;
+	   border-left: solid 3px black;
+	   border-right: solid 3px black;
+	   }
+							/* Nav Menu */
+		
+#sitenav2{ text-align:center; }
+#sitenav2 li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 14pt; font-weight:normal; font-variant:small-caps;}
+#resume a { text-decoration:underline;}
+#resume a:link, #resume a:visited { color: black; }
+
+							/* Footer */
+p.footer2  { margin:0; font-style:italic; text-align:center; font-size:small; }

@@ -1,0 +1,25 @@
+				/* Overall useful links page formatting */
+
+			
+#usefullinks p 	{ text-indent:auto; color: white; font-size: 12pt; padding: 10px }		
+#usefullinks h1 	{ text-align: center;  color:White; font-weight:bold; }
+#usefullinks a { text-decoration:underline; font-weight: bold; }
+#usefullinks a:link, a:visited { color: white; }
+#usefullinks ul { margin-left:auto; margin-right:auto}
+
+#usefullinks {width:1280px;
+	   margin:auto;
+	   background:#600000;
+	   border-bottom: solid 3px black;
+	   border-top: solid 3px black;
+	   border-left: solid 3px black;
+	   border-right: solid 3px black;
+	   }
+
+
+								/* Nav Menu */
+#sitenav3 { text-align:center; }
+#sitenav3 li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 14pt; font-weight:normal; font-variant:small-caps;}
+
+								/* Footer */
+p.footer3  { margin:0; font-style:italic; text-align:center; font-size:small; }
